@@ -1,0 +1,7 @@
+﻿  calculator.cpp
+  main.cpp
+E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_03\MyCPP_03\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_03\MyCPP_03\main.cpp(29,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_03\MyCPP_03\main.cpp(30,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  MyCPP_03.vcxproj -> E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_03\x64\Debug\MyCPP_03.exe
