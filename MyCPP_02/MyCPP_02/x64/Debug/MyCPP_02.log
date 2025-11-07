@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_02\MyCPP_02\main.cpp(8,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyCPP_02.vcxproj -> E:\C++ Projects\UE5 C++ Practice Projects\MyCPP_02\x64\Debug\MyCPP_02.exe
